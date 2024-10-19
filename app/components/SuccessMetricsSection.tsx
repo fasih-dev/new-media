@@ -20,7 +20,6 @@ const SuccessMetricsSection: React.FC = () => {
                     </div>
                 </div>
 
-
                 {/* Success metrics */}
                 <h2 className="text-3xl sm:text-4xl font-bold text-center text-red-600 mb-4">
                     25+ YEARS OF SUCCESS FOR OUR CLIENTS.
@@ -40,11 +39,11 @@ const SuccessMetricsSection: React.FC = () => {
 
                 {/* Description */}
                 <p className="text-center text-gray-600 mb-8 max-w-6xl mx-auto text-2xl">
-                    <span className='font-bold text-black'> NEWMEDIA.COM</span>   is a full-service <span className='text-red-700 font-bold'>digital marketing agency </span>specializing in performance marketing to dramatically
+                    <span className='font-bold text-black'> NEWMEDIA.COM</span> is a full-service <span className='text-red-700 font-bold'>digital marketing agency</span> specializing in performance marketing to dramatically
                     increase revenue and profit for companies. We design, build, and grow holistic, integrated projects which include
-                    <span className='text-red-700 font-bold'>    website design </span> and  <span className='text-red-700 font-bold'>development </span>in combination with our proprietary PPC optimization and management,
+                    <span className='text-red-700 font-bold'>website design</span> and <span className='text-red-700 font-bold'>development</span> in combination with our proprietary PPC optimization and management,
                     custom software development, social media management, conversion rate optimization, and marketing automation.
-                    We've increased client revenues from $200K to $3-500K as a result. Get in touch today to learn how We Scale Brands.®
+                    We&apos;ve increased client revenues from $200K to $3-500K as a result. Get in touch today to learn how We Scale Brands.®
                 </p>
 
                 {/* CTA Button */}
